@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxVvFmcHChlsSmLKYosihs21ZRDUo72IE7PuRZdhKYeq9Y7l5fwR3r7neyk8cGxbHEicjLEO7B00I7Dxiv4Nhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kenzo\\source\\repos\\LoginApi\\LoginApi\\LoginApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenzo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Kenzo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Kenzo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Kenzo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Kenzo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Kenzo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
