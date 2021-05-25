@@ -1,4 +1,5 @@
-﻿using LoginApi.Models.User;
+﻿using LoginApi.Filters;
+using LoginApi.Models.User;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -14,6 +15,7 @@ namespace LoginApi.Controllers
     {
         [HttpPost]
         [Route("login")]
+        [ValidModelState]
         public IActionResult login(LoginViewModels loginViewModel) 
         {
             return Ok(loginViewModel);
@@ -21,6 +23,7 @@ namespace LoginApi.Controllers
 
         [HttpPost]
         [Route("register")]
+        [ValidModelState]
         public IActionResult register(RegisterViewModels loginViewModel)
         {
             return Created("", loginViewModel);
