@@ -8,17 +8,19 @@ using System.Threading.Tasks;
 
 namespace LoginApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("apiLogin/")]
     [ApiController]
     public class UserController : ControllerBase
     {
         [HttpPost]
+        [Route("login")]
         public IActionResult login(LoginViewModels loginViewModel) 
         {
             return Ok(loginViewModel);
         }
 
         [HttpPost]
+        [Route("register")]
         public IActionResult register(RegisterViewModels loginViewModel)
         {
             return Created("", loginViewModel);

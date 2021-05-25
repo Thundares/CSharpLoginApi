@@ -27,3 +27,4 @@ C:\Users\Kenzo\source\repos\LoginApi\LoginApi\obj\Debug\net5.0\LoginApi.dll
 C:\Users\Kenzo\source\repos\LoginApi\LoginApi\obj\Debug\net5.0\ref\LoginApi.dll
 C:\Users\Kenzo\source\repos\LoginApi\LoginApi\obj\Debug\net5.0\LoginApi.pdb
 C:\Users\Kenzo\source\repos\LoginApi\LoginApi\obj\Debug\net5.0\LoginApi.genruntimeconfig.cache
+C:\Users\Kenzo\source\repos\LoginApi\LoginApi\bin\Debug\net5.0\LoginApi.xml
